@@ -1,0 +1,12 @@
+[
+  {"code": "cs.AI", "name": "Artificial Intelligence"},
+  {"code": "cs.CL", "name": "Computation and Language"},
+  {"code": "cs.CV", "name": "Computer Vision"},
+  {"code": "cs.CR", "name": "Cryptography and Security"},
+  {"code": "cs.DB", "name": "Databases"},
+  {"code": "cs.IR", "name": "Information Retrieval"},
+  {"code": "cs.LG", "name": "Machine Learning"},
+  {"code": "cs.NE", "name": "Neural and Evolutionary Computing"},
+  {"code": "cs.RO", "name": "Robotics"},
+  {"code": "cs.SE", "name": "Software Engineering"}
+]

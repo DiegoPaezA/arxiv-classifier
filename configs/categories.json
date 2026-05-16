@@ -1,0 +1,12 @@
+[
+  {"code": "cs.AI", "name": "Artificial Intelligence",           "n_per_class": 200},
+  {"code": "cs.CL", "name": "Computation and Language",         "n_per_class": 200},
+  {"code": "cs.CV", "name": "Computer Vision",                  "n_per_class": 200},
+  {"code": "cs.CR", "name": "Cryptography and Security",        "n_per_class": 200},
+  {"code": "cs.DB", "name": "Databases",                        "n_per_class": 200},
+  {"code": "cs.IR", "name": "Information Retrieval",            "n_per_class": 200},
+  {"code": "cs.LG", "name": "Machine Learning",                 "n_per_class": 200},
+  {"code": "cs.NE", "name": "Neural and Evolutionary Computing","n_per_class": 200},
+  {"code": "cs.RO", "name": "Robotics",                         "n_per_class": 200},
+  {"code": "cs.SE", "name": "Software Engineering",             "n_per_class": 200}
+]

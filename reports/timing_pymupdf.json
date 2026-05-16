@@ -1,0 +1,51 @@
+{
+  "total_pdfs": 2000,
+  "tiempo_total_seg": 47.4187,
+  "tiempo_promedio_seg": 0.0237,
+  "tiempo_mediano_seg": 0.0208,
+  "tiempo_min_seg": 0.0077,
+  "tiempo_max_seg": 0.292,
+  "percentil_95_seg": 0.0403,
+  "por_categoria": {
+    "cs.AI": {
+      "promedio_seg": 0.0226,
+      "total_seg": 4.5186
+    },
+    "cs.CL": {
+      "promedio_seg": 0.0217,
+      "total_seg": 4.3375
+    },
+    "cs.CV": {
+      "promedio_seg": 0.0257,
+      "total_seg": 5.1417
+    },
+    "cs.CR": {
+      "promedio_seg": 0.0214,
+      "total_seg": 4.2759
+    },
+    "cs.DB": {
+      "promedio_seg": 0.0287,
+      "total_seg": 5.7482
+    },
+    "cs.IR": {
+      "promedio_seg": 0.027,
+      "total_seg": 5.3968
+    },
+    "cs.LG": {
+      "promedio_seg": 0.0227,
+      "total_seg": 4.5419
+    },
+    "cs.NE": {
+      "promedio_seg": 0.0207,
+      "total_seg": 4.1478
+    },
+    "cs.RO": {
+      "promedio_seg": 0.026,
+      "total_seg": 5.1964
+    },
+    "cs.SE": {
+      "promedio_seg": 0.0206,
+      "total_seg": 4.1139
+    }
+  }
+}

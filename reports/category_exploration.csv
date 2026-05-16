@@ -1,0 +1,11 @@
+code,name,total,primary_pct
+cs.AI,Artificial Intelligence,174961,24.0
+cs.CL,Computation and Language,107866,75.0
+cs.CV,Computer Vision,190403,75.0
+cs.CR,Cryptography and Security,47685,75.0
+cs.DB,Databases,11597,73.0
+cs.IR,Information Retrieval,25025,65.0
+cs.LG,Machine Learning,263561,48.0
+cs.NE,Neural and Evolutionary Computing,17555,47.0
+cs.RO,Robotics,52325,52.0
+cs.SE,Software Engineering,26325,82.0

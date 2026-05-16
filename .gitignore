@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Data (generated/downloaded)
+data/pdfs/
+data/raw/
+data/interim/
+data/processed/
+
+# Models
+models/
+
+# Secrets
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Reports con datos grandes
+reports/evaluation_results_*.json
+reports/training_history_*.json
+reports/best_checkpoint_*.json
+
+# Archivos temporales de extracción
+data/interim/raw_pymupdf/
+data/interim/raw_docling/
+data/interim/embeddings/
+
+# uv
+.python-version
+
+# OS
+.DS_Store
+Thumbs.db

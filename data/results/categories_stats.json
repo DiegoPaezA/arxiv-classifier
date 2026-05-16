@@ -1,0 +1,62 @@
+[
+  {
+    "code": "cs.AI",
+    "name": "Artificial Intelligence",
+    "total": 174961,
+    "primary_pct": 24.0
+  },
+  {
+    "code": "cs.CL",
+    "name": "Computation and Language",
+    "total": 107866,
+    "primary_pct": 75.0
+  },
+  {
+    "code": "cs.CV",
+    "name": "Computer Vision",
+    "total": 190403,
+    "primary_pct": 75.0
+  },
+  {
+    "code": "cs.CR",
+    "name": "Cryptography and Security",
+    "total": 47685,
+    "primary_pct": 75.0
+  },
+  {
+    "code": "cs.DB",
+    "name": "Databases",
+    "total": 11597,
+    "primary_pct": 73.0
+  },
+  {
+    "code": "cs.IR",
+    "name": "Information Retrieval",
+    "total": 25025,
+    "primary_pct": 65.0
+  },
+  {
+    "code": "cs.LG",
+    "name": "Machine Learning",
+    "total": 263561,
+    "primary_pct": 48.0
+  },
+  {
+    "code": "cs.NE",
+    "name": "Neural and Evolutionary Computing",
+    "total": 17555,
+    "primary_pct": 47.0
+  },
+  {
+    "code": "cs.RO",
+    "name": "Robotics",
+    "total": 52325,
+    "primary_pct": 52.0
+  },
+  {
+    "code": "cs.SE",
+    "name": "Software Engineering",
+    "total": 26325,
+    "primary_pct": 82.0
+  }
+]
