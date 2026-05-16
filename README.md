@@ -14,9 +14,9 @@ el impacto de la calidad de extracción en el rendimiento del modelo.
 
 | Fuente            | F1 macro | Accuracy | Artículos |
 |-------------------|----------|----------|-----------|
-| abstract_api      |  0.7734  |  0.7833  |    300    |
-| abstract_pymupdf  |  0.XX    |  0.XX    |    ...    |
-| abstract_docling  |  0.XX    |  0.XX    |    ...    |
+| abstract_api      |  0.7519  |  0.7667  |    300    |
+| abstract_pymupdf  |  0.7722  |  0.7867  |    300    |
+| abstract_docling  |  0.7521  |  0.7710  |    297    |
 
 ---
 
