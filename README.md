@@ -25,8 +25,16 @@ el impacto de la calidad de extracción en el rendimiento del modelo.
 - Python 3.10+
 - [uv](https://docs.astral.sh/uv/) — gestor de entorno y dependencias
 
+For linux:
+
 ```bash
 curl -LsSf https://astral.sh/uv/install.sh | sh
+```
+
+For Windows:
+
+```powershell
+powershell -ExecutionPolicy ByPass -c "irm https://astral.sh/uv/install.ps1 | iex"
 ```
 
 - GPU recomendada para entrenamiento (6 GB+ VRAM).
